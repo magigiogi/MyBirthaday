@@ -178,10 +178,17 @@ hr{
     .fireworks-popper{
         top:5vh;
     }
+    .fireworks{
+        right: 7vw;
+    }
     .glass{
         top:15vh;
         left:5vw;
         transform: rotate(-10deg);
+    }
+    .stella-10{
+        top:65vh;
+        right: 10vw;
     }
 }
 .presentation-div{
@@ -202,20 +209,22 @@ hr{
 }
 @media screen and (orientation:portrait){
     h2{
-        font-size: 6vw;
+        font-size: 9vw;
         padding-top: 10vh;
     }
     .invito{
-        font-size: 3vw;
+        font-size: 5vw;
         margin:0 20vw 0 20vw;
     }
     .agrifoglio{
         position: relative;
         top:12vh;
         right:-5vw;
+        width: 10%;
     }
     .ghirlanda{
-        width: 25%;
+        margin-left:10vw;
+        width: 35%;
     }
     .vischio{
         width: 20%;
@@ -248,14 +257,16 @@ hr{
 @media screen and (orientation:portrait){
    .agrifoglio-2{
         position:relative;
-        top:11vh;
-        left: -21vw;
+        top:12vh;
+        left: -30vw;
+        width: 10%;
    }
    .descript-regali{
-    font-size: 2.3vw;
+    font-size: 4vw;
    }
    .lista-regali{
-    font-size: 2vw;
+    font-size: 4vw;
+    margin: 0 10vw 0 10vw;
    }
 }
 .location-div{
