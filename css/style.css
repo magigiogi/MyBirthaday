@@ -220,11 +220,11 @@ hr{
         position: relative;
         top:12vh;
         right:-5vw;
-        width: 10%;
+        width: 20%;
     }
     .ghirlanda{
         margin-left:10vw;
-        width: 35%;
+        width: 50%;
     }
     .vischio{
         width: 20%;
@@ -259,7 +259,7 @@ hr{
         position:relative;
         top:12vh;
         left: -30vw;
-        width: 10%;
+        width: 20%;
    }
    .descript-regali{
     font-size: 4vw;
